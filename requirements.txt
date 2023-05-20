@@ -1,0 +1,7 @@
+python=3.10
+onnx==1.14.0
+efficientnet_pytorch==0.7.1
+onnxruntime==1.14.1
+torch==2.0.0+cpu --index-url https://download.pytorch.org/whl/cpu
+torchvision==0.15.1+cpu --index-url https://download.pytorch.org/whl/cpu
+torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cpu
